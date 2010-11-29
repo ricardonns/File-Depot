@@ -1,0 +1,5 @@
+c:\users\win7work\documents\visual studio 2010\Projects\FileStore\FileStore\bin\FileStore.dll
+c:\users\win7work\documents\visual studio 2010\Projects\FileStore\FileStore\bin\FileStore.pdb
+c:\users\win7work\documents\visual studio 2010\Projects\FileStore\FileStore\obj\Debug\ResolveAssemblyReference.cache
+c:\users\win7work\documents\visual studio 2010\Projects\FileStore\FileStore\obj\Debug\FileStore.dll
+c:\users\win7work\documents\visual studio 2010\Projects\FileStore\FileStore\obj\Debug\FileStore.pdb
